@@ -1,7 +1,5 @@
 # Dicionário de dados
 
-Exemplo de dicionário de dados:
-
 | Nome da coluna                      | Descrição                                               | Tipo de dado        |
 |-------------------------------------|---------------------------------------------------------|---------------------|
 | `host_is_superhost`                 | Se o anfitrião é um "super anfitrião" no airbnb         | Booliano            |
