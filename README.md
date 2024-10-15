@@ -34,3 +34,10 @@ A ideia do projeto é entender como esses fatores impactam no preço da diária 
 ### Simulações para Previsão de Valor do Imóvel
 - Por fim, será desenvolvido um modelo de machine learning que possa ser usado na plataforma Streamlit, onde iremos fornecer alguns dados de entrada a respeito do imóvel e com isso será feito a previsão do valor da diária de um imóvel do airbnb no Rio de Janeiro
 
+### Ponderações Finais do Projeto
+
+- Após a criação do modelo de machine learning, pode-se entender quais variáveis tem maior impacto no preço da diária do imóvel. Abaixo, temos o grau de importância percentual de cada feature na precificação da diária.
+
+![Importância de cada feature](relatorios/Importancia%20cada%20feature%20para%20o%20Modelo%20Extra%20Trees.png)
+
+
