@@ -27,6 +27,10 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 
 - Acredito que a sazonalidade pode ser um fator importante, visto que meses como dezembro costumam ser bem caros no RJ
 - A localização do imóvel deve fazer muita diferença no preço, já que no Rio de Janeiro a localização pode mudar completamente as características do lugar (segurança, beleza natural, pontos turísticos)
-- Adicionais/Comodidades podem ter um impacto significativo, visto que temos muitos prédios e casas antigos no Rio de Janeiro
+- Adicionais/Comodidades/Número de hóspedes podem ter um impacto significativo, visto que temos muitos prédios e casas antigos no Rio de Janeiro
 
 A ideia do projeto é entender como esses fatores impactam no preço da diária e se temos outros fatores não tão intuitivos que são extremamente importantes.
+
+### Simulações para Previsão de Valor do Imóvel
+- Por fim, será desenvolvido um modelo de machine learning que possa ser usado na plataforma Streamlit, onde iremos fornecer alguns dados de entrada a respeito do imóvel e com isso será feito a previsão do valor da diária de um imóvel do airbnb no Rio de Janeiro
+
